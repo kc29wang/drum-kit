@@ -1,2 +1,2 @@
 # drum-kit
-A 7 piece drum kit simulation.
+A 7-piece drum kit simulation.
